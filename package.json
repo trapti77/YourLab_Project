@@ -2,10 +2,10 @@
   "name": "yourlab_project",
   "version": "1.0.0",
   "description": "",
-  "main": "hello.js",
+  "main": "api.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node hello.js"
+    "start": "node api.js"
   },
   "author": "",
   "license": "ISC",
